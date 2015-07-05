@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = smtpsend
+
+# Module version number
+MODULEVERSION      = 1.19-2
+
+# Module release date
+MODULEDATE         = 2003/03/25
+
+# Module long description
+MODULEDESCRIPTION  = Sends e-mail messages by relaying on a SMTP server.
+
+# Module dependencies
+MODULEDEPENDENCIES = ampoliros[3.0.0]
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = Manuel Lemos
+
+MODULE_AUTHOR_EMAIL  = mlemos@acm.org
+
+MODULE_AUTHOR_SITE   = http://solarix.mirrors.phpclasses.org/browse.html/package/14.html
+
+MODULE_SUPPORT_EMAIL = 
+
+MODULE_BUGS_EMAIL    = 
+
+MODULE_COPYRIGHT     = 
+
+MODULE_LICENSE       = BSD
+
+MODULE_LICENSE_FILE  = LICENSE
+
+MODULE_MAINTAINER	= Alex Pagnoni - Solarix
+
+MODULE_MAINTAINER_EMAIL	= alex.pagnoni@solarix.biz
+
+MODULE_CATEGORY     = libraries
